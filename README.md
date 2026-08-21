@@ -1,2 +1,2 @@
 # repo-taller
-Cambio realizado directamente en main
+Conflicto resuelto: se combinó el cambio de main y prod
